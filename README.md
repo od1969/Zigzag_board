@@ -12,3 +12,5 @@ Kailh Choc ロープロファイル用ソケット 型番：CPG135001S30
 Cherry MX、MX互換スイッチ、Kailh Choc ロープロファイルスイッチを直接はんだ付けする場合はソケットの取付方向から180度回転させて取り付けます。  
 ピッチは19mmです。  
 3/4inc(19.05mm)ピッチではありません。  
+
+![PCB](https://github.com/od1969/Zigzag_board/blob/master/Photo.jpg)
